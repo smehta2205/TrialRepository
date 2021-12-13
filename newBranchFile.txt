@@ -1,1 +1,2 @@
 This is a new file for new_branch.
+Trial in new branch
