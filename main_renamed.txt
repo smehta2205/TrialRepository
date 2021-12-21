@@ -7,3 +7,4 @@ Trying to figure out blame
 Oh blame!
 Requestor exception caused it
 Rate limit check
+Changed authorization 
