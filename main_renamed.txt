@@ -10,3 +10,4 @@ Rate limit check
 Changed authorization 
 It did not work
 It was repo name issue
+Tried to solve it
