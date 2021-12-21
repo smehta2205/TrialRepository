@@ -9,3 +9,4 @@ Requestor exception caused it
 Rate limit check
 Changed authorization 
 It did not work
+It was repo name issue
