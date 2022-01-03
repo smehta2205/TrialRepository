@@ -1,5 +1,0 @@
-This is a new file for new_branch.
-Trial in new branch
-Try again
-Commit in new branch
-Try to check if new branch commit is polled.
