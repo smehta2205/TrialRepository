@@ -1,0 +1,3 @@
+This is a new file meant for testing.
+New file to be added.
+Thus, adding new lines.
