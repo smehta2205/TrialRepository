@@ -1,3 +1,5 @@
 This is a new file meant for testing.
 New file to be added.
 Thus, adding new lines.
+Will add new lines
+Then delete the file today to check if the lines are impacted
