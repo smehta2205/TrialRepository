@@ -17,3 +17,6 @@ C2 on branch_new
 C1 on branch_new  
 C2 on branch_new
 Commit on main
+Commit on new-branch - 1
+Commit on new-branch - 2
+Commit on new-branch - 3
