@@ -21,3 +21,4 @@ Commit on new-branch - 1
 Commit on new-branch - 2
 Commit on new-branch - 3
 New commit
+Commit on main
