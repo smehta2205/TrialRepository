@@ -23,3 +23,5 @@ Commit on new-branch - 3
 New commit
 Commit on main
 Commit on main
+C1 on new branch
+C2 on new branch
