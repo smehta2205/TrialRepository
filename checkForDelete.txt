@@ -26,3 +26,4 @@ Commit on main
 C1 on new branch
 C2 on new branch
 C1 on testBranch
+C2 on testBranch
